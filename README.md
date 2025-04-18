@@ -30,6 +30,8 @@ This repository includes implementations and comparisons of the following tracki
 
 ### ✅ 1. Color-Based Tracking (Currently Implemented)
 Tracks objects based on HSV color filtering (e.g., a deep blue mug), using OpenCV and `djitellopy` for real-time control.
+![Tracking Demo](https://github.com/VSQACE34/Tracking-for-drones/raw/main/color%20based%20tracking/tracking_demo(color%20track).gif)
+
 
 - ✅ Lightweight & fast — perfect for low-resource drones  
 - ❌ Sensitive to lighting changes and complex backgrounds  
@@ -81,7 +83,6 @@ Applies OpenCV’s `cv2.matchTemplate()` to detect and track based on a referenc
 
 ### Color-Based Tracking
 [▶️ Watch Tracking Demo (Color Track)](https://github.com/VSQACE34/Tracking-for-drones/blob/main/color%20based%20tracking/tracking_demo(color%20track).mp4)
-
 
 ---
 
