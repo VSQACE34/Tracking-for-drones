@@ -79,8 +79,9 @@ Applies OpenCV’s `cv2.matchTemplate()` to detect and track based on a referenc
 
 ## 📹 Demos & Results
 
-🎥 _Video demonstration coming soon..._  
-Once available, links to YouTube and GitHub video samples will be added here.
+### Color-Based Tracking
+[▶️ Watch Tracking Demo (Color Track)](https://github.com/VSQACE34/Tracking-for-drones/blob/main/color%20based%20tracking/tracking_demo(color%20track).mp4)
+
 
 ---
 
